@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anuja </h1> <br>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<h3 align="center">A passionate Student Programmer from Sri lanka</h3>
 <p align="center">🌟 Immersed in the world of computer science from a young age, my passion for coding knows no bounds. With each line I write, I uncover new dimensions of creativity and problem-solving. From crafting elegant algorithms to building robust software solutions, I find joy in the endless possibilities that technology offers. Coding isn't just a skill; it's a lifelong journey of discovery and mastery. 💻💡 🛠️</p> <br>
 <p align="center"> 
 </div>
@@ -12,17 +12,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on a ****.
+- 🌱 I’m currently learning about Kotlin
 
-- 🌱 I’m currently learning about ****.
+- 👨‍💻 All of my projects that im working are available at https://github.com/AnujaDehideniya
 
-- 👨‍💻 All of my projects are available at .....................
+- 💬 Ask me about **Java, SQL, PHP**
 
-- 💬 Ask me about **Java, Python, PHP and Node.js**
+- 📫 How to reach me anujadehideniya@gmail.com
 
-- 📫 How to reach me ** **
-
-- ⚡ Fun fact: ****
+- ⚡ Fun fact: me
 
 <br>
 
@@ -35,26 +33,19 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py" />
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular"/>
   </a>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase" />
-  </a>
 </p>
-
-
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
   </a>
 </p>
 
@@ -66,9 +57,8 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2><br>
 
 <p align="left">
-<a href="................" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Savin Pathirana" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Savin Pathirana" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Savin_Pathirana" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anuja-dehideniya-a45473257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anuja" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anuja.dehideniya.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Anuja" height="30" width="40" /></a>
 </p>
 
 <br>
