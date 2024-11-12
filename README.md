@@ -12,11 +12,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning about Kotlin
+- 🌱 I’m currently learning about angular, typescript, python
 
 - 👨‍💻 All of my projects that im working are available at https://github.com/AnujaDehideniya
 
-- 💬 Ask me about **Java, SQL, PHP**
+- 💬 Ask me about **Java, SQL, PHP, kotlin**
 
 - 📫 How to reach me anujadehideniya@gmail.com
 
